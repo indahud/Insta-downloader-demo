@@ -8,4 +8,4 @@
 - NODEJS/Express
 
 # Demo
-![Demo:](https://raw.githubusercontent.com/indahud/Insta-downloader-demo/master/demo.gif)
+![Link:](https://raw.githubusercontent.com/indahud/Insta-downloader-demo/master/demo.gif)
