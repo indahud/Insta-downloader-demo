@@ -1,6 +1,6 @@
-        Users can download Public Instagram Post media(image/video).
-        I'm still implementing MultiPost download option. 
-        I am also working on alternate scraping method if instagram changes their API's in future. 
+        Users can download Public Instagram Post data(image/video).
+        Working on more powerful features that similar sites don't offer. 
+        Planning to add scraping method because site will run even if Instagram change their API's.  
 
 
 ## Stack Used
