@@ -4,8 +4,8 @@
 
 
 ## Stack Used
-- ReactJS
-- NODEJS/Express
+- NextJS
+- Express
 
 # Demo
 ![Link:](https://raw.githubusercontent.com/indahud/Insta-downloader-demo/master/demo.gif)
