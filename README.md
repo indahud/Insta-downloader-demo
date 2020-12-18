@@ -1,11 +1,19 @@
-        Users can download Public Instagram Post data(image/video).
-        Working on more powerful features that similar sites don't offer. 
-        Planning to add scraping method because site will run even if Instagram change their API's.  
+# Instagram Downloader
 
+## Description
+                This tool can download public Instagram media like photos, videos and profile pictures.
+## Features
+- No login required
+- High quality images and videos
 
 ## Stack Used
 - NextJS
 - Express
 
-# Demo
-![Link:](https://raw.githubusercontent.com/indahud/Insta-downloader-demo/master/demo.gif)
+
+
+# Live Demo
+![LInk:](https://raw.githubusercontent.com/indahud/Insta-downloader-demo/master/instadl.gif)
+---
+## ReactJS implementation
+[React Demo](https://raw.githubusercontent.com/indahud/Insta-downloader-demo/master/demo.gif)
